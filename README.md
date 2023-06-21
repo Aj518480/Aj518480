@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Aj518480 aka Ally
-- 👀 I’m interested in ... all things coding ----but my heart speaks REACT
-- 🌱 I’m currently learning ... all REACT applications starting again small
-- 💞️ I’m looking to collaborate on ... smaller projects and then to move on community helping applications
+ I am committed to continuously learning all types of languages and technics in order to contribute to the development of innovative and reliable software solutions. I am here to embrace challenges and overall embrace my creativity. 
 
 
 <!---
